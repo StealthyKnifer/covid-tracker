@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <string name="application_name">ADITYA\'s COVID TRACKER</string>
+    <string name="recovered">Recovered :</string>
+    <string name="active">Active :</string>
+    <string name="confirmed">Confirmed :</string>
+    <string name="deceased">Deceased :</string>
+    <string name="total">Total Cases :</string>
+    <string name="casesYesterday">Yesterday</string>
+    <string name="casesTotal">Total</string>
+    <string name="refresh">Refresh</string>
+</resources>
